@@ -1,3 +1,13 @@
+💻 Install
+===============
+Dans le répertoire ```/2eme-Partie```, ouvrez un terminal et exécuter ces 2 commandes :
+
+```bash
+go build
+
+./project-particles
+```
+
 💡Fonctionalités
 ===============
 Initialisation d’un système de particules configurable.
@@ -36,14 +46,7 @@ Vous pouvez ajuster les paramètres principaux :
 
 "ScaleX" / "ScaleY": échelles
 ```
-
-2. Compiler et exécuter
-
-```bash
-go build
-
-./project-particles
-```
+2. Vous pouvez changer ces paramètres dynamiquement en utilisant les touches de votre clavier.
 
 🛠️Dev
 =========
